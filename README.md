@@ -77,3 +77,9 @@ Clustering: [1](http://www.mit.edu/~9.54/fall14/slides/Class13.pdf)
 * 苏越
 * 肖俊伦
 * 杜孟君
+
+### Group 7
+* 韦亦迅
+* 马国荣
+* 辛高正
+* 李睿豪
